@@ -1,0 +1,22 @@
+[
+    {
+        "merged": "D:\\work\\BaiduMapsApiDemo1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\rating_bar_15.xml",
+        "source": "D:\\work\\BaiduMapsApiDemo1\\app\\src\\main\\res\\drawable\\rating_bar_15.xml"
+    },
+    {
+        "merged": "D:\\work\\BaiduMapsApiDemo1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\selector_bt_map_jian.xml",
+        "source": "D:\\work\\BaiduMapsApiDemo1\\app\\src\\main\\res\\drawable\\selector_bt_map_jian.xml"
+    },
+    {
+        "merged": "D:\\work\\BaiduMapsApiDemo1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\selector_bt_map_jia.xml",
+        "source": "D:\\work\\BaiduMapsApiDemo1\\app\\src\\main\\res\\drawable\\selector_bt_map_jia.xml"
+    },
+    {
+        "merged": "D:\\work\\BaiduMapsApiDemo1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\selector_ib_locate.xml",
+        "source": "D:\\work\\BaiduMapsApiDemo1\\app\\src\\main\\res\\drawable\\selector_ib_locate.xml"
+    },
+    {
+        "merged": "D:\\work\\BaiduMapsApiDemo1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\selector_white_middleblue_bg.xml",
+        "source": "D:\\work\\BaiduMapsApiDemo1\\app\\src\\main\\res\\drawable\\selector_white_middleblue_bg.xml"
+    }
+]

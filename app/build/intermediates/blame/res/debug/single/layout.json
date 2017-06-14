@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "D:\\work\\BaiduMapsApiDemo1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\mapview_location_poi_lv_item.xml",
+        "source": "D:\\work\\BaiduMapsApiDemo1\\app\\src\\main\\res\\layout\\mapview_location_poi_lv_item.xml"
+    },
+    {
+        "merged": "D:\\work\\BaiduMapsApiDemo1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_poisearch.xml",
+        "source": "D:\\work\\BaiduMapsApiDemo1\\app\\src\\main\\res\\layout\\activity_poisearch.xml"
+    },
+    {
+        "merged": "D:\\work\\BaiduMapsApiDemo1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\mapview_location_poi.xml",
+        "source": "D:\\work\\BaiduMapsApiDemo1\\app\\src\\main\\res\\layout\\mapview_location_poi.xml"
+    }
+]

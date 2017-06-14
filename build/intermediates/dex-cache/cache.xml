@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="D:\work\BaiduMapsApiDemo1\app\build\intermediates\exploded-aar\com.android.support\support-v4\21.0.3\jars\libs\internal_impl-21.0.3.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="01ec05bfbafcc07646ba813000bf2ef11742dd03">
+        <dex dex="D:\work\BaiduMapsApiDemo1\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-21.0.3_a761006cd3990d7677bd808ed63739b086903442\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\work\BaiduMapsApiDemo1\app\libs\baidumapapi_v3_1_1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="fd80439473ff6e0e9ae45f95af48302271e1e45e">
+        <dex dex="D:\work\BaiduMapsApiDemo1\app\build\intermediates\transforms\dex\debug\folders\1000\2\baidumapapi_v3_1_1_99efca018ecc2f9e3bb61d52f2c0e0098fab5387\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Administrator.USER-20161226MF\AppData\Local\Android\Sdk\platform-tools\extras\android\m2repository\com\android\support\support-annotations\21.0.3\support-annotations-21.0.3.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="4b74cefe1f0c1b819e7260c8627a14674e37fd35">
+        <dex dex="D:\work\BaiduMapsApiDemo1\app\build\intermediates\transforms\dex\debug\folders\1000\10\support-annotations-21.0.3_e4eab8893f4f27234f68bd8311673318bc6d5d4d\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\work\BaiduMapsApiDemo1\app\libs\locSDK_4.2.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="41b93335a2753c93f8b8f56741615cb81ea72437">
+        <dex dex="D:\work\BaiduMapsApiDemo1\app\build\intermediates\transforms\dex\debug\folders\1000\2\locSDK_4.2_b6666327091ee42dc011132771fd07f797c1430e\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\work\BaiduMapsApiDemo1\app\build\intermediates\exploded-aar\com.android.support\support-v4\21.0.3\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="2c91c949a45a21cdecf26e03951e46c7beec9ad8">
+        <dex dex="D:\work\BaiduMapsApiDemo1\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-v4-21.0.3_207e61fe72ce38510d634c599844538e72c513de\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\work\BaiduMapsApiDemo1\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="bd87045ac932ae411798472b8b9d0a49c634992e">
+        <dex dex="D:\work\BaiduMapsApiDemo1\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run-bootstrap_31f9c87a5b950cda905a2fc809a96686ca28e34f\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\work\BaiduMapsApiDemo1\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="a51e169f6faaf4587d5bae1a5829ff4626894bc7">
+        <dex dex="D:\work\BaiduMapsApiDemo1\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run_04b486fb563644ef7bd7fb3c3e13116bcd14d914\classes.dex" />
+    </item>
+
+</items>

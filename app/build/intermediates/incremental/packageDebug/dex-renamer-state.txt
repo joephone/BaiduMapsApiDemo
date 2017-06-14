@@ -1,0 +1,7 @@
+#Wed May 10 17:26:53 CST 2017
+base.0=D\:\\work\\BaiduMapsApiDemo1\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run_04b486fb563644ef7bd7fb3c3e13116bcd14d914
+renamed.1=classes2.dex
+renamed.0=classes.dex
+file.1=D\:\\work\\BaiduMapsApiDemo1\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run-bootstrap_31f9c87a5b950cda905a2fc809a96686ca28e34f\\classes.dex
+base.1=D\:\\work\\BaiduMapsApiDemo1\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run-bootstrap_31f9c87a5b950cda905a2fc809a96686ca28e34f
+file.0=D\:\\work\\BaiduMapsApiDemo1\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run_04b486fb563644ef7bd7fb3c3e13116bcd14d914\\classes.dex
